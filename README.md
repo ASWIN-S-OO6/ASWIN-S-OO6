@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACmCgomC2qLq/giphy.gif" width="200" />
-</p>
-
 <h1 align="center">
-  👋 Hi, I'm Aswin S
+  Aswin S
 </h1>
 <h3 align="center">
   🚀 Android Developer | 🌐 Cross-Platform Expert | 🧠 Generative AI Enthusiast
@@ -44,7 +40,7 @@ I also explore Generative AI and love integrating smart AI features into apps to
 ### 🛠️ My Tech Stack
 
 #### Languages
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -53,7 +49,7 @@ I also explore Generative AI and love integrating smart AI features into apps to
 </p>
 
 #### Frameworks & Platforms
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
@@ -61,7 +57,7 @@ I also explore Generative AI and love integrating smart AI features into apps to
 </p>
 
 #### AI & Machine Learning
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Firebase_ML-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase ML Kit"/>
@@ -71,34 +67,32 @@ I also explore Generative AI and love integrating smart AI features into apps to
 </p>
 
 #### Tools, Cloud & Backend
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https.img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black" alt="AWS Lambda"/>
 </p>
 
 #### Databases
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Hive-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Hive"/>
+s
 </p>
 
 ---
 
 ### 📬 Get in Touch
 
-You can reach me through the links at the top of my profile or shoot me an email directly.
 - 📧 [aswin.s06@proton.me](mailto:aswin.s06@proton.me)
 - 🐙 [github.com/ASWIN-S-OO6](https://github.com/ASWIN-S-OO6)
 
 ---
 
-> <p align="center">
 > "Code with purpose. Build with passion. Ship with care."
-> </p>
