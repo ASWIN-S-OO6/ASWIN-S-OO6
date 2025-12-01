@@ -26,11 +26,7 @@ I also explore Generative AI and love integrating smart AI features into apps to
 
 ### 🛠️ Languages & Tech Stack
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASWIN-S-OO6&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Aswin S's Top Languages" />
-  </a>
-</p>
+
 
 <br>
 
